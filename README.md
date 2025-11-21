@@ -91,7 +91,7 @@
 
 
 # SIMULATED OUTPUT
-<img width="1915" height="422" alt="513919206-b86aa986-38ea-4556-a6a5-fa9f514d4333" src="https://github.com/user-attachments/assets/00cc4ce9-fc6d-4866-a7be-36a9c82220a7" />
+[<img width="1915" height="422" alt="513919206-b86aa986-38ea-4556-a6a5-fa9f514d4333" src="https://github.com/user-attachments/assets/00cc4ce9-fc6d-4866-a7be-36a9c82220a7" />](https://lab-record-generator.vercel.app/)
 
 
 # RESULT
