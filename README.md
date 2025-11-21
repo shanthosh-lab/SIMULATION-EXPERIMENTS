@@ -86,12 +86,14 @@
 
 
 # CIRCUIT DIAGRAM- R-2R LADDER DAC
-<img width="504" height="321" alt="513919096-36af3da4-8e88-4846-b071-7c0847005a5d" src="https://github.com/user-attachments/assets/ed8331a2-d80e-4761-8ab3-8d89c39f68c6" />
+![R2R CIRCUIT](https://github.com/user-attachments/assets/23abaa33-9469-48ca-978a-88de8a421efb)
+
 
 
 
 # SIMULATED OUTPUT
-[<img width="1915" height="422" alt="513919206-b86aa986-38ea-4556-a6a5-fa9f514d4333" src="https://github.com/user-attachments/assets/00cc4ce9-fc6d-4866-a7be-36a9c82220a7" />](https://lab-record-generator.vercel.app/)
+![R2R Ladder](https://github.com/user-attachments/assets/62426771-11f7-4378-a853-201806faaeab)
+
 
 
 # RESULT
